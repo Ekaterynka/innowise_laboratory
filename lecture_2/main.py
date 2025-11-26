@@ -7,6 +7,8 @@ def generate_profile(age):
         return "Adult"
     else:
         return "Unknown"
+
+
 def main():
     user_name = input("Enter your full name: ")
     birth_year_str = input("Enter your birth year: ")
@@ -45,6 +47,7 @@ def main():
         for hobby in user_profile['hobbies']:
             print(f"- {hobby}")
     print("---")
+
 
 if __name__ == "__main__":
     main()

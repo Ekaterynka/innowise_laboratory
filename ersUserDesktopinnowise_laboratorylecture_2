@@ -1,0 +1,60 @@
+[33mcommit f90418dfca611d3fc855d0e51919601ddc0fda50[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Thu Nov 20 00:14:56 2025 +0300
+
+    Add corrected main.py for lecture_2
+
+[33mcommit 0e409fca5ebe4aeb692bac12aef76c3ad7af1109[m
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Wed Nov 19 14:25:13 2025 +0300
+
+    Add main.py to directory lecture_2
+
+[33mcommit ade44d022827292179b8f305647ceac750e4d4a8[m[33m ([m[1;31morigin/feature/main-logic[m[33m, [m[1;32mfeature/main-logic[m[33m)[m
+Merge: bf2d3ae 5fb4d93
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Tue Nov 11 01:55:06 2025 +0300
+
+    Merge main into feature/main-logic
+
+[33mcommit bf2d3aeb143f65d61d611c0a69dc28c831fb8685[m
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Tue Nov 11 01:44:12 2025 +0300
+
+    Add main logic files
+
+[33mcommit 5fb4d930fe1f696d5763b112a705711401075904[m
+Merge: 58c47b3 20a204e
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Tue Nov 11 01:41:35 2025 +0300
+
+    Merge pull request #2 from Ekaterynka/feature/main-logic
+    
+    Add main logic with colored output
+
+[33mcommit 20a204e4d2df1e97410eb67b5315edd6aef061b4[m
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Tue Nov 11 01:28:59 2025 +0300
+
+    Add main logic with colored output
+
+[33mcommit 58c47b3755c2842e7c707b813aff31344bd4bd2f[m
+Merge: 22af3d0 d9fe456
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Tue Nov 11 00:46:39 2025 +0300
+
+    Merge pull request #1 from Ekaterynka/feature/virtual-environment
+    
+    Add virtual environment
+
+[33mcommit d9fe456cf3440a75089d69dc8adeda254e85ea12[m
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Tue Nov 11 00:21:07 2025 +0300
+
+    Add virtual environment
+
+[33mcommit 22af3d0c6150dcaafb42797bc6a5ddd2628303c8[m
+Author: Ekaterinka <katarzynkaray@gmail.com>
+Date:   Mon Nov 10 22:03:55 2025 +0300
+
+    Initial commit: Project structure and gitignore
