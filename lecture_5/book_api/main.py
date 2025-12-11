@@ -247,7 +247,7 @@ def delete_book(book_id: int, db: Session = Depends(get_db)):
 
     return {"message": "Book deleted successfully"}
 
-# ROOT ENDPOINT (Health Check)
+# Root endpoint (health check)
 
 @app.get("/")
 def read_root():
@@ -269,7 +269,7 @@ def read_root():
     }
 
 
-# APPLICATION ENTRY POINT
+# Application entry point
 
 if __name__ == "__main__":
     """
